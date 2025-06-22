@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VS2022projects\\BaiDu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC1DCCB-00B5-4057-9D73-6A9C88050D0F}|BaiduAI\\BaiduAI.csproj|c:\\vs2022projects\\baidu\\baiduai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC1DCCB-00B5-4057-9D73-6A9C88050D0F}|BaiduAI\\BaiduAI.csproj|solutionrelative:baiduai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC1DCCB-00B5-4057-9D73-6A9C88050D0F}|BaiduAI\\BaiduAI.csproj|C:\\VS2022projects\\BaiDu\\baiduai\\common\\validhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC1DCCB-00B5-4057-9D73-6A9C88050D0F}|BaiduAI\\BaiduAI.csproj|solutionrelative:baiduai\\common\\validhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC1DCCB-00B5-4057-9D73-6A9C88050D0F}|BaiduAI\\BaiduAI.csproj|C:\\VS2022projects\\BaiDu\\baiduai\\common\\classloger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC1DCCB-00B5-4057-9D73-6A9C88050D0F}|BaiduAI\\BaiduAI.csproj|solutionrelative:baiduai\\common\\classloger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC1DCCB-00B5-4057-9D73-6A9C88050D0F}|BaiduAI\\BaiduAI.csproj|C:\\VS2022projects\\BaiDu\\baiduai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AC1DCCB-00B5-4057-9D73-6A9C88050D0F}|BaiduAI\\BaiduAI.csproj|solutionrelative:baiduai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC1DCCB-00B5-4057-9D73-6A9C88050D0F}|BaiduAI\\BaiduAI.csproj|C:\\VS2022projects\\BaiDu\\baiduai\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC1DCCB-00B5-4057-9D73-6A9C88050D0F}|BaiduAI\\BaiduAI.csproj|solutionrelative:baiduai\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\VS2022projects\\BaiDu\\BaiduAI\\Form1.cs",
+              "RelativeDocumentMoniker": "BaiduAI\\Form1.cs",
+              "ToolTip": "C:\\VS2022projects\\BaiDu\\BaiduAI\\Form1.cs",
+              "RelativeToolTip": "BaiduAI\\Form1.cs",
+              "ViewState": "AgIAAPEBAAAAAAAAAAAqwBICAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:25:12.994Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValidHelper.cs",
+              "DocumentMoniker": "C:\\VS2022projects\\BaiDu\\BaiduAI\\Common\\ValidHelper.cs",
+              "RelativeDocumentMoniker": "BaiduAI\\Common\\ValidHelper.cs",
+              "ToolTip": "C:\\VS2022projects\\BaiDu\\BaiduAI\\Common\\ValidHelper.cs",
+              "RelativeToolTip": "BaiduAI\\Common\\ValidHelper.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAqwEEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T09:33:03.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassLoger.cs",
+              "DocumentMoniker": "C:\\VS2022projects\\BaiDu\\BaiduAI\\Common\\ClassLoger.cs",
+              "RelativeDocumentMoniker": "BaiduAI\\Common\\ClassLoger.cs",
+              "ToolTip": "C:\\VS2022projects\\BaiDu\\BaiduAI\\Common\\ClassLoger.cs",
+              "RelativeToolTip": "BaiduAI\\Common\\ClassLoger.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwCcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T09:32:58.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\VS2022projects\\BaiDu\\BaiduAI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "BaiduAI\\Form1.Designer.cs",
+              "ToolTip": "C:\\VS2022projects\\BaiDu\\BaiduAI\\Form1.Designer.cs",
+              "RelativeToolTip": "BaiduAI\\Form1.Designer.cs",
+              "ViewState": "AgIAAH4BAAAAAAAAAADwv28BAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:43:32.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\VS2022projects\\BaiDu\\BaiduAI\\Form1.cs",
+              "RelativeDocumentMoniker": "BaiduAI\\Form1.cs",
+              "ToolTip": "C:\\VS2022projects\\BaiDu\\BaiduAI\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "BaiduAI\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:25:11.903Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
