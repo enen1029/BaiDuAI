@@ -1,0 +1,12 @@
+C:\VS2022projects\WindowsFormsEXE\WindowsFormsEXE\bin\Debug\WindowsFormsEXE.exe.config
+C:\VS2022projects\WindowsFormsEXE\WindowsFormsEXE\bin\Debug\WindowsFormsEXE.exe
+C:\VS2022projects\WindowsFormsEXE\WindowsFormsEXE\bin\Debug\WindowsFormsEXE.pdb
+C:\VS2022projects\WindowsFormsEXE\WindowsFormsEXE\obj\Debug\WindowsFormsEXE.csproj.AssemblyReference.cache
+C:\VS2022projects\WindowsFormsEXE\WindowsFormsEXE\obj\Debug\WindowsFormsEXE.Form1.resources
+C:\VS2022projects\WindowsFormsEXE\WindowsFormsEXE\obj\Debug\WindowsFormsEXE.Properties.Resources.resources
+C:\VS2022projects\WindowsFormsEXE\WindowsFormsEXE\obj\Debug\WindowsFormsEXE.csproj.GenerateResource.cache
+C:\VS2022projects\WindowsFormsEXE\WindowsFormsEXE\obj\Debug\WindowsFormsEXE.csproj.CoreCompileInputs.cache
+C:\VS2022projects\WindowsFormsEXE\WindowsFormsEXE\obj\Debug\WindowsFormsEXE.exe
+C:\VS2022projects\WindowsFormsEXE\WindowsFormsEXE\obj\Debug\WindowsFormsEXE.pdb
+C:\VS2022projects\WindowsFormsEXE\WindowsFormsEXE\bin\Debug\Guna.UI2.dll
+C:\VS2022projects\WindowsFormsEXE\WindowsFormsEXE\obj\Debug\WindowsF.F8CE29B6.Up2Date
